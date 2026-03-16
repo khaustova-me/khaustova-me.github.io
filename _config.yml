@@ -1,57 +1,39 @@
-# Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+# ==============================================================
+# Minimal Light Theme - Configuration for Veronica Khaustova
+# ==============================================================
+# Docs: https://github.com/yaoyao-liu/minimal-light
+# ==============================================================
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+# --- Basic Information ---
+title: Veronica Khaustova
+position: Ph.D. in Computer Science and Engineering from the University of Aizu, Japan
+affiliation: AI Research Engineer @ Eyes, JAPAN Co. Ltd
+affiliation_link: https://www.nowhere.co.jp/
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+# --- Contact & Links ---
+email: veronica.khaustova (at) gmail.com
+google_scholar: https://scholar.google.co.jp/citations?user=tsbr-boAAAAJ&hl=en
+linkedin: https://www.linkedin.com/in/veronica-khaustova/
+github_link: https://github.com/khaustova-me
+orcid: https://orcid.org/0000-0003-0965-1515
+# twitter: https://twitter.com/YOUR_HANDLE
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# --- SEO ---
+keywords: Veronica Khaustova, speech prosody, pronunciation training, CAPT, computer-assisted pronunciation, voice conversion, machine learning, University of Aizu
+description: Veronica Khaustova — AI Research Engineer and Ph.D. in Computer Science. Research in speech prosody analysis, pronunciation training, and voice conversion.
+
+# --- Images ---
+# Place your profile photo as assets/img/avatar.png
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+# --- Footer ---
+footer_text: "&copy; Veronica Khaustova"
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+# --- Theme settings ---
+# Set to true to enable dark mode toggle
+enable_darkmode: true
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+# The option for the minimal light theme
+minimal_light_theme: default
