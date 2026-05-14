@@ -5,5 +5,5 @@ Ph.D. in Computer Science and Engineering, [University of Aizu](https://www.u-ai
 
 My research focuses on speech prosody analysis, computer-assisted pronunciation training (CAPT), voice conversion, and ASR for specialized domains.
 
-📫 veronica.khaustova {at} gmail.com  
+📫 veronica@khaustova.me
 🔗 [LinkedIn](https://www.linkedin.com/in/veronica-khaustova) · [Google Scholar](https://scholar.google.co.jp/citations?user=tsbr-boAAAAJ&hl=en) · [Personal Website](https://khaustova-me.github.io)
