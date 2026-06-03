@@ -18,6 +18,10 @@ Previously, I earned a BSc in Air Traffic Control and Flight Support from the Be
 - **Voice Conversion:** preserving speaker identity while modifying pronunciation
 - **ASR for Specialized Domains:** automatic speech recognition for air traffic control and pilot communications
 
+## Projects
+
+**[StudyIntonation](https://studyintonation.khaustova.me/)** — An open CAPT platform for prosody practice. Record your voice, visualize your pitch contour against native speaker models, and get instant DTW-based feedback. Supports English, Vietnamese, and Japanese.
+
 ## News
 
 - **[Oct. 2025]** New paper on Japanese ATC communication corpus at the 159th Audio Engineering Society Convention.
