@@ -52,7 +52,7 @@ _Note: name changed in March 2023 from Veranika Mikhailava to Veronica Khaustova
 
 #### Conference Publications
 
-1. Tang, L.; **Khaustova, V.**; Villegas, J. (2025, October). Construction of a Japanese air traffic control communication corpus assisted with automatic speech recognition. In *Proc. 159 Audio Eng. Soc. Conv.* [Link] (https://aesshow2025lb.sched.com/event/294Pt/construction-of-a-japanese-air-traffic-control-communication-corpus-assisted-with-automatic-speech-recognition)
+1. Tang, L.; **Khaustova, V.**; Villegas, J. (2025, October). Construction of a Japanese air traffic control communication corpus assisted with automatic speech recognition. In *Proc. 159 Audio Eng. Soc. Conv.* [Link](https://aesshow2025lb.sched.com/event/294Pt/construction-of-a-japanese-air-traffic-control-communication-corpus-assisted-with-automatic-speech-recognition)
 
 1. Pyshkin, E., Blake, J., **Khaustova, V.**, Lezhenin, I., Svechnikov, R., Efimov, D., Bogach, N. (2024, March). Multimodal Contextualizing and Targeting Exercises in iCAPT Systems. *INTED2024*. [DOI](https://library.iated.org/view/PYSHKIN2024MUL)
 
